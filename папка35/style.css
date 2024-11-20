@@ -1,0 +1,105 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.form {
+    display: flex;
+    padding: 10px;
+}
+
+.form_2 {
+    padding-right: 10px;
+}
+
+span {
+    display: flex;
+}
+
+.inp {
+    padding: 10px;
+    border-radius: 10px;
+    border-color: gray;
+    margin-top: 5px;
+    padding-left: 10px;
+}
+
+.btn {
+    padding: 10px;
+    margin-left: 10px;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    border: none;
+
+}
+.columns-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.column {
+    width: 30%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+h2 {
+    text-align: center;
+}
+
+.box {
+    margin-bottom: 15px;
+    background-color: #e8e8e8;
+    padding: 10px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.text h1 {
+    font-size: 18px;
+    margin-right: 10px;
+}
+
+.input-container {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+}
+
+.fill {
+    width: 60px;
+    padding: 5px;
+    margin-right: 10px;
+}
+
+.delete_btn {
+margin-left:330px ;
+border: 10px;
+padding: 5px 5px;
+position: fixed;
+
+}
+
+.delete_btn:hover {
+    background-color: red;
+}
+
+.Age{
+    margin-left: 300px;
+    padding-bottom  : 20px;
+    position: fixed;
+}
+
+.tx {
+       padding-top: px; 
+}
+
+
+
